@@ -1,0 +1,2 @@
+# KSKScraper
+scrape ksk.moe
